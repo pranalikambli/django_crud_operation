@@ -1,4 +1,4 @@
-# django_crud_operation
+# Django Crud Operation
 Django Crud Operation with search and pagination feature.
 
 # Django Crud Function Based View
